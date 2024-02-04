@@ -1,0 +1,423 @@
+body {
+	background-attachment:fixed;
+	background-position:top center;
+    background: #7dc0c5 url(kristall.png); /* Цвет фона и путь к файлу */
+    color: #fff; /* Цвет текста */
+	 background-repeat: no-repeat;
+	
+   }
+.content{
+
+ height: 130%; /* Высота блока */
+ color: #000000;
+}
+.tabl{
+	
+bottom: 1.5%;
+left: 0.5%;
+position: absolute;
+}
+.k1{
+	position: absolute;
+font-family: "Tahoma";
+ height: 30%;
+ width: 30%;
+top: 1.5%;
+right: 0.5%;
+}
+.k2{
+	position: absolute;
+font-family: "Tahoma";
+ height: 30%;
+ width: 30%;
+top: 2.5%;
+right: 7.5%;
+}
+.k3{
+	position: absolute;
+font-family: "Tahoma";
+ height: 30%;
+ width: 30%;
+top: 2.5%;
+right: 4.5%;
+}
+.k4{
+	position: absolute;
+font-family: "Tahoma";
+
+top: 0.5%;
+right: 0.5%;
+}
+.k5{
+	position: absolute;
+font-family: "Tahoma";
+ height: 30%;
+ width: 30%;
+top: 0.5%;
+right: 0.5%;
+}
+.k6{
+	
+	position: absolute;
+font-family: "Tahoma";
+top: 2%;
+right: 2%;
+
+}
+.t1{
+	position: absolute;
+font-family: "Tahoma";
+color: #000000;
+top: 0.5%;
+left: 0.5%;
+}
+.t2{
+	position: absolute;
+font-family: "Tahoma";
+color: #000000;
+top: 5.5%;
+left: 0.5%;
+width: 35%;
+}
+.ttt{
+	position: absolute;
+height: 5%;
+color: #000000;
+top: 8.5%;
+opacity: 0;
+}
+.ttt:hover{
+	position: absolute;
+	height: 5%;
+color: #000000;
+top: 8.5%;
+opacity: 1;
+}
+.b{
+ border: 1px solid#000 ;
+
+  
+  width: 21%;
+ top: 2%; /* Расстояние от верхнего края */
+ left: 2%; 
+}
+.b:hover{
+width: 21%;
+  border: 3px solid#000 ;
+ 
+ top: 2%; /* Расстояние от верхнего края */
+ left: 2%; 
+}
+
+.p1{
+position: absolute;
+ padding: 10px;
+ border: 2px solid #000;
+  
+ height: 53%;
+ width: 13%;
+ top: 2%; /* Расстояние от верхнего края */
+ left: 1%; 
+ border-radius: 25px;
+  opacity: 0.6;
+  background:  url(kri1.png);
+  background-position: center;
+}
+.p1:hover{
+position: absolute;
+ padding: 10px;
+ border: 3px solid #000;
+  
+ height: 53%;
+ width: 13%;
+  top: 2%; /* Расстояние от верхнего края */
+ left: 1%;
+ border-radius: 25px;
+  opacity: 1.0;
+  background:  url(kri1.png);
+  background-position: center;
+}
+
+.p2{
+position: absolute;
+ padding: 10px;
+ border: 2px solid #000;
+ 
+ height: 53%;
+ width: 13%;
+  top: 2%; /* Расстояние от верхнего края */
+ left: 19%;
+ border-radius: 25px;
+  opacity: 0.6;
+  background:  url(kri2.png);
+  background-position: center;
+}
+.p2:hover{
+position: absolute;
+ padding: 10px;
+ border: 3px solid #000;
+ 
+ height: 53%;
+ width: 13%;
+ top: 2%; /* Расстояние от верхнего края */
+ left: 19%;
+ border-radius: 25px;
+  opacity: 1.0;
+  background:  url(kri2.png);
+  background-position: center;
+}
+
+
+
+.p3{
+position: absolute;
+ padding: 10px;
+ border: 2px solid #000;
+ 
+height: 53%;
+ width: 13%;
+ top: 2%; /* Расстояние от верхнего края */
+ right: 19%; 
+ border-radius: 25px;
+  opacity: 0.6;
+  background:  url(kri3.png);
+  background-position: center;
+}
+.p3:hover{
+position: absolute;
+ padding: 10px;
+  border: 3px solid #000;
+ 
+ height: 53%;
+ width: 13%;
+  top: 2%; /* Расстояние от верхнего края */
+ right: 19%; 
+ border-radius: 25px;
+  opacity: 1.0;
+  background:  url(kri3.png);
+  background-position: center;
+}
+
+.p4{
+position: absolute;
+ padding: 10px;
+ border: 2px solid #000;
+ 
+height: 53%;
+ width: 13%;
+ top: 2%; /* Расстояние от верхнего края */
+ right: 1%; 
+ border-radius: 25px;
+  opacity: 0.6;
+  background:  url(kri4.png);
+  background-position: center;
+}
+.p4:hover{
+position: absolute;
+ padding: 10px;
+  border: 3px solid #000;
+ 
+ height: 53%;
+ width: 13%;
+  top: 2%;/* Расстояние от верхнего края */
+ right: 1%; 
+ border-radius: 25px;
+  opacity: 1.0;
+  background:  url(kri4.png);
+  background-position: center;
+}
+
+
+.p5{
+position: absolute;
+ padding: 10px;
+ border: 2px solid #000;
+  
+ height: 53%;
+ width: 13%;
+ top: 70%; /* Расстояние от верхнего края */
+ left: 1%; 
+ border-radius: 25px;
+  opacity: 0.6;
+  background:  url(kri3.png);
+  background-position: center;
+}
+.p5:hover{
+position: absolute;
+ padding: 10px;
+ border: 3px solid #000;
+  
+ height: 53%;
+ width: 13%;
+top: 70%;/* Расстояние от верхнего края */
+ left: 1%; 
+ border-radius: 25px;
+  opacity: 1.0;
+  background:  url(kri3.png);
+  background-position: center;
+}
+
+.p6{
+position: absolute;
+ padding: 10px;
+ border: 2px solid #000;
+ 
+ height: 53%;
+ width: 13%;
+top: 70%;/* Расстояние от верхнего края */
+ left: 19%;
+ border-radius: 25px;
+  opacity: 0.6;
+  background:  url(kri3.png);
+  background-position: center;
+}
+.p6:hover{
+position: absolute;
+ padding: 10px;
+ border: 3px solid #000;
+ 
+ height: 53%;
+ width: 13%;
+top: 70%; /* Расстояние от верхнего края */
+ left: 19%;
+ border-radius: 25px;
+  opacity: 1.0;
+  background:  url(kri3.png);
+  background-position: center;
+}
+
+
+
+.p7{
+position: absolute;
+ padding: 10px;
+ border: 2px solid #000;
+ 
+height: 53%;
+ width: 13%;
+top: 70%; /* Расстояние от верхнего края */
+right: 19%; 
+ border-radius: 25px;
+  opacity: 0.6;
+  background:  url(kri5.png);
+  background-position: center;
+}
+.p7:hover{
+position: absolute;
+ padding: 10px;
+ border: 3px solid #000;
+ 
+height: 53%;
+ width: 13%;
+top: 70%; /* Расстояние от верхнего края */
+ right: 19%; 
+ border-radius: 25px;
+  opacity: 1.0;
+  background:  url(kri5.png);
+  background-position: center;
+}
+
+.p8{
+position: absolute;
+ padding: 10px;
+ border: 2px solid #000;
+ 
+height: 53%;
+ width: 13%;
+top: 70%; /* Расстояние от верхнего края */
+ right: 1%; 
+ border-radius: 25px;
+  opacity: 0.6;
+  background:  url(kri3.png);
+  background-position: center;
+}
+.p8:hover{
+position: absolute;
+ padding: 10px;
+ border: 3px solid #000;
+ 
+ height: 53%;
+ width: 13%;
+top: 70%; /* Расстояние от верхнего края */
+ right: 1%; 
+ border-radius: 25px;
+  opacity: 1.0;
+  background:  url(kri3.png);
+  background-position: center;
+}
+.n{
+	position: absolute;
+	overflow-y: scroll;
+	text-align: center;
+	bottom: 20px;
+}
+
+.preloader {
+  /*фиксированное позиционирование*/
+  position: fixed;
+  /* координаты положения */
+  left: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  /* фоновый цвет элемента */
+  background: #e0e0e0;
+  /* размещаем блок над всеми элементами на странице (это значение должно быть больше, чем у любого другого позиционированного элемента на странице) */
+  z-index: 1001;
+}
+
+.preloader__row {
+  position: relative;
+  top: 50%;
+  left: 50%;
+  width: 70px;
+  height: 70px;
+  margin-top: -35px;
+  margin-left: -35px;
+  text-align: center;
+  animation: preloader-rotate 2s infinite linear;
+}
+
+.preloader__item {
+  position: absolute;
+  display: inline-block;
+  top: 0;
+  background-color: #337ab7;
+  border-radius: 100%;
+  width: 35px;
+  height: 35px;
+  animation: preloader-bounce 2s infinite ease-in-out;
+}
+
+.preloader__item:last-child {
+  top: auto;
+  bottom: 0;
+  animation-delay: -1s;
+}
+
+@keyframes preloader-rotate {
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+@keyframes preloader-bounce {
+
+  0%,
+  100% {
+    transform: scale(0);
+  }
+
+  50% {
+    transform: scale(1);
+  }
+}
+
+.loaded_hiding .preloader {
+  transition: 20.9s opacity;
+  opacity: 0;
+}
+
+.loaded .preloader {
+  display: none;
+}
